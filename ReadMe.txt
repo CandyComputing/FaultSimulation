@@ -1,7 +1,4 @@
-Rakan Ghaith
-M738R656
-CS 540 Operating Systems
-Programming Assignment 4
+
 
 Date: 04/18/2024
 Page Replacement Algorithms Simulation Program
